@@ -1,0 +1,6 @@
+streamlit>=1.38
+mysql-connector-python>=9.0
+python-dotenv>=1.0
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
